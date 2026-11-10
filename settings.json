@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Level-SMP.aternos.me",
-    "port": 14739,
-    "version": "1.26.63.1",
+    "ip": "LEVELaSMP.aternos.me",
+    "port": "19132",
+    "version": "",
     "try-creative": false
   },
   "position": {
